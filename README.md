@@ -115,3 +115,5 @@ Joke
 
 Why did the Git repository go to therapy? Because it had too many unresolved conflicts.
 
+Why did the commit get promoted? It had a great message and strong history.
+
