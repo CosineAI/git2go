@@ -117,3 +117,5 @@ Why did the Git repository go to therapy? Because it had too many unresolved con
 
 Why did the commit get promoted? It had a great message and strong history.
 
+I tried to rebase my life, but I kept rewriting history.
+
