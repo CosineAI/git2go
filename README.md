@@ -110,3 +110,8 @@ Authors
 - Carlos Martín (@carlosmn)
 - Vicent Martí (@vmg)
 
+Joke
+----
+
+Why did the Git repository go to therapy? Because it had too many unresolved conflicts.
+
