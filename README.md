@@ -119,3 +119,5 @@ Why did the commit get promoted? It had a great message and strong history.
 
 I tried to rebase my life, but I kept rewriting history.
 
+I asked Git for a fast-forward, but it told me to get ahead on my own branch first.
+
